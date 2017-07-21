@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/webmasters/google-api-services-webmasters-v3-rev24-1.22.0.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$USER_HOME$/Downloads/webmasters/google-api-services-webmasters-v3-rev24-1.22.0-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$USER_HOME$/Downloads/webmasters/google-api-services-webmasters-v3-rev24-1.22.0-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/webmasters/libs-sources/transaction-api-1.1-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/webmasters/libs-sources/jetty-util-6.1.26-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/webmasters/libs-sources/jetty-6.1.26-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/webmasters/libs-sources/jdo2-api-2.3-eb-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/webmasters/libs-sources/jackson-core-2.1.3-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/webmasters/libs-sources/httpcore-4.0.1-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/webmasters/libs-sources/httpclient-4.0.1-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/webmasters/libs-sources/gson-2.1-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/webmasters/libs-sources/google-oauth-client-jetty-1.22.0-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/webmasters/libs-sources/google-oauth-client-java6-1.22.0-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/webmasters/libs-sources/google-oauth-client-appengine-1.22.0-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/webmasters/libs-sources/google-oauth-client-1.22.0-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/webmasters/libs-sources/google-http-client-jdo-1.22.0-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/webmasters/libs-sources/google-http-client-jackson2-1.22.0-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/webmasters/libs-sources/google-http-client-gson-1.22.0-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/webmasters/libs-sources/google-http-client-appengine-1.22.0-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/webmasters/libs-sources/google-http-client-android-1.22.0-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/webmasters/libs-sources/google-http-client-1.22.0-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/webmasters/libs-sources/google-api-client-servlet-1.22.0-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/webmasters/libs-sources/google-api-client-java6-1.22.0-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/webmasters/libs-sources/commons-logging-1.1.1-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/webmasters/libs-sources/google-api-client-1.22.0-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/webmasters/libs-sources/google-api-client-appengine-1.22.0-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/webmasters/libs-sources/google-api-client-android-1.22.0-sources.jar!/com/google/api/client/googleapis/extensions/android/accounts" />
+          <root url="jar://$USER_HOME$/Downloads/webmasters/libs-sources/google-api-client-android-1.22.0-sources.jar!/com/google/api/client/googleapis/extensions/android/gms/auth" />
+          <root url="jar://$USER_HOME$/Downloads/webmasters/libs-sources/google-api-client-gson-1.22.0-sources.jar!/com/google/api/client/googleapis/notifications/json/gson" />
+          <root url="jar://$USER_HOME$/Downloads/webmasters/libs-sources/google-api-client-jackson2-1.22.0-sources.jar!/com/google/api/client/googleapis/notifications/json/jackson2" />
+          <root url="jar://$USER_HOME$/Downloads/webmasters/libs-sources/google-oauth-client-servlet-1.22.0-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/webmasters/libs-sources/google-oauth-client-servlet-1.22.0-sources.jar!/com/google/api/client/extensions/auth/helpers/oauth" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="webmasters" level="project" />
+    <orderEntry type="library" name="libs-sources" level="project" />
+    <orderEntry type="library" name="libs" level="project" />
+  </component>
+</module>
